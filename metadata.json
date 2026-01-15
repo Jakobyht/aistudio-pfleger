@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CareMatch MVP",
+  "description": "A high-fidelity Caregiver & Careseeker matching platform featuring a swipe-based interface, profile management, and chat capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
